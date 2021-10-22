@@ -1,7 +1,7 @@
 ## ACCESSIBILITY
 >Add **accessibility toolbar** to your website with one line of code!
 
-![Alt text](https://raw.githubusercontent.com/suhaibjanjua/accessibility/master/accessibility.png "accessibility icon")
+![Alt text](https://github.com/suhaibjanjua/accessibility/blob/69c52a694b33643ae310d2f908d3b4f7d4d437fa/accessibility.png "accessibility icon")
 
 ### USAGE:
 
@@ -127,16 +127,10 @@ You can change the default icon as described [here](https://suhaibjanjua.github.
     <tr>
       <td align="center">
         <img width="150" height="150"
-        src="https://avatars0.githubusercontent.com/u/3777546?s=460&v=4">
+        src="https://avatars.githubusercontent.com/u/2657332?v=4">
         <br />
-        <a href="https://github.com/suhaibjanjua">Ran Buchnik</a>
-      </td>
-      <td align="center">
-        <img width="150" height="150"
-        src="https://avatars0.githubusercontent.com/u/24736893?s=460&v=4">
-        <br />
-        <a href="https://github.com/omarmfs98">Omar Flórez</a>
-      </td>      
+        <a href="https://github.com/suhaibjanjua">Suhaib Janjua</a>
+      </td>     
     </tr>
   </tbody>
 </table>
